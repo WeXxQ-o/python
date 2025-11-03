@@ -1,3 +1,4 @@
+#Spočítaj, koľkokrát sa zadaný podreťazec vyskytuje na začiatku a na konci zadaného slova
 slovo = input()
 podretazec = input()
 temp = 0

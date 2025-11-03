@@ -1,4 +1,4 @@
-# Check if the input string is a palindrome
+#Pozri či je zadané slovo palindróm
 a = input()
 if a == a[::-1]:
     print("PALINDROM")

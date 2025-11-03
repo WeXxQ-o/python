@@ -1,3 +1,4 @@
+#Nájdi najdlhšie a najkratšie slovo zo zadaných slov oddelených medzerou, vypíš ich dĺžky a priemernú dĺžku slov
 a = input().split()
 maxi = ''
 mini = a[0]

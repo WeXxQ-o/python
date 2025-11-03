@@ -1,3 +1,4 @@
+#Vypis neparnych cislic a ich poctom 
 a = input().split()
 temp = ''
 poc = 0

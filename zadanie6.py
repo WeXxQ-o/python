@@ -1,3 +1,4 @@
+#Zisti či zadané 3 čísla môžu byť stranami pravouhlého trojuholníka. Ak áno, vypíš aj jeho obsah
 cislo = input().split(',')
 a = int(cislo[0])
 b = int(cislo[1])

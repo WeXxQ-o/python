@@ -1,3 +1,4 @@
+#Vytvor obdĺžnik z 'x' a 'y' podľa zadaných rozmerov
 a = int(input())
 b = int(input())
 print ('y' * b)
