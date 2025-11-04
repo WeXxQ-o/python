@@ -1,7 +1,7 @@
 #Nájdi maximum a minimum zo zadaných čísel oddelených medzerou
 a = input().split()
 maxi =  0
-mini = 9999999
+mini = a[0]
 for i in a:
     if i.isdigit():
         if int(i) > int (maxi):
