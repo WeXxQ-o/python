@@ -1,7 +1,10 @@
-vstup = input().split(';')
-a = int(vstup[0])
-b = int(vstup[1])
-c = int(vstup[2])
-d = int(vstup[3])
-
-print(min(a, b, c, d))
+vstup = input().split()
+temp=''
+for i in vstup:
+    if i.isdigit():
+        temp+= ''
+    else:
+        for znak in i:
+            if not znak.isdigit():
+                temp += znak
+print(temp)
